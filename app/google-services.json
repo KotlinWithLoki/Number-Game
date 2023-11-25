@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503464601754",
+    "project_id": "whohasalotball",
+    "storage_bucket": "whohasalotball.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503464601754:android:8aacb904da3a5f8b581723",
+        "android_client_info": {
+          "package_name": "com.loki.bottomnavigationbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503464601754-q1tcojkb7bsvbm0ii0ldmpfkegpmmd23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJg8PeaIuOC7jZp0oJWxYgwZq5pF6vck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503464601754-q1tcojkb7bsvbm0ii0ldmpfkegpmmd23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
